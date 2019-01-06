@@ -9,13 +9,6 @@ What other types of investments are there? Plenty. Although you could choose to 
 
 Stock growth in a single company may be astronomical, but they are also more risky as they are much more suspectible to fall. A popular mutual fund option is ownership in the S&P 500, which tracks the top 500 U.S. companies. As businesses succeed and decline, a mutual fund tracking the S&P 500 will adjust its holdings accordingly. Thus, by definition, you are always guaranteed ownership in the most successful companies. This doesn't mean you'll always be making money, but you do beat holding individual stocks in one key difference: the market always goes up.
 
-<div class="dt center">
-  <div class="db tc dtc-ns v-mid-ns">
-    <img src="djia.gif" alt="Chart of the Dow Jones Industrial Average moving up and to the right" />
-  </div>
-  <div class="db dtc-ns v-mid pr0-ns pl3-ns">
-    <p class="lh-copy mb4 mw7">
-      Although daily, weekly, and monthly fluctuations in the market occur <em>all the time</em>, the only true statement that can be made is that, over enough years, the market always trends up. A crash in the market may take two (or five, or more) years to recover, but it <em>does</em> recover. If a company flounders and fails, there's no guarantee that it will recover.
-    </p>
-  </div>
-</div>
+![Chart of the Dow Jones Industrial Average moving up and to the right](djia.gif)
+
+Although daily, weekly, and monthly fluctuations in the market occur <em>all the time</em>, the only true statement that can be made is that, over enough years, the market always trends up. A crash in the market may take two (or five, or more) years to recover, but it <em>does</em> recover. If a company flounders and fails, there's no guarantee that it will recover.

@@ -27,31 +27,17 @@ Let's introduce two more terms.
 
 ### Stocks
 
-<div class="dt center">
-  <div class="db tc dtc-ns v-mid-ns">
-    <img src="stocks.jpg" alt="Men trading stocks" />
-  </div>
-  <div class="db dtc-ns v-mid pr0-ns pl3-ns">
-    <p class="lh-copy mb4 mw7">
-      You're probably generally familiar with what stocks are: a financial activity primarily dominated by men with very little melanin. Buying a stock grants you ownership of a company. When a business is just starting, they want as many investors as possible, so that they can have money to operate. After a while, their business grows and makes money on its own, but strong stock growth is indicative of a healthy business.
-    </p>
-  </div>
-</div>
+![Men trading stocks](stocks.jpg)
+
+You're might already be familiar with what stocks are: a financial activity primarily dominated by men with very little melanin. Buying a stock grants you ownership of a company. When a business is just starting, they want as many investors as possible, so that they can have money to operate. After a while, their business grows and makes money on its own, but strong stock growth is indicative of a healthy business.
 
 Stocks are traded on the stock market. After you buy a stock, if that company succeeds, you are often paid _dividends_ as a "thank you" for your investment. (This is, essentially similar to how a bank operates: in exchange for giving your trust vis-à-vis an investment, you are rewarded as the business grows.) If the company fails, however, you do not recuperate any of the money you spent on stocks. (Unless you happen to be [an executive](https://www.theguardian.com/commentisfree/2013/aug/28/highest-paid-ceos-bailed-out-recession) at that company.) Stocks are _high risk_, because you don't know if a business will succeed or fail, but they are also _high reward_, because their growth has the potental to increase your wealth.
 
 ### Bonds
 
-<div class="dt center">
-  <div class="db tc dtc-ns v-mid-ns">
-    <img src="bonds.jpg" alt="Captain America urging you to buy war bonds" />
-  </div>
-  <div class="db dtc-ns v-mid pr0-ns pl3-ns">
-    <p class="lh-copy mb4 mw7">
-      The best way to describe a bond is to think of it as a loan, except you act as the bank. When you buy a bond, what you're actually doing is loaning money, either to your city, state, or national government. They in turn promise to pay you back, with regular interest payments. Bonds may be used to do anything from fund local transit projects to covering budget deficits.
-    </p>
-  </div>
-</div>
+![Captain America urging you to buy war bonds](bonds.jpg)
+
+The best way to describe a bond is to think of it as a loan, except you act as the bank. When you buy a bond, what you're actually doing is loaning money, either to your city, state, or national government. They in turn promise to pay you back, with regular interest payments. Bonds may be used to do anything from fund local transit projects to covering budget deficits.
 
 Bonds are considered _low risk_, because governments typically pay back their creditors. (If a government collapses and defaults on its repayment, there are far worse problems at stake.) Although you are paid back some percentage of interest, it's a relatively _low reward_ for the amount of risk you're taking.
 

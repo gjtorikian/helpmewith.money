@@ -1,3 +1,5 @@
-baseURL = "https://helpmewith.money/"
+baseURL = "https://helpmewith.money"
+desc = "With the steady decline of late-stage capitalism, money management is a popular topic these days. The purpose of this website is to give a very direct introduction how to handle your money."
 languageCode = "en-us"
-title = "Help Me With Money!"
+title = "Help Me With Money! 😱"
+enableRobotsTXT = true
