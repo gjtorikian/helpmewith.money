@@ -5,4 +5,4 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy","taxonomyTerm","sitemap"]
 
 [params]
-  desc = "With the steady decline of late-stage capitalism, money management is a popular topic these days. The purpose of this website is to give a very direct introduction how to handle your money."
+  desc = "As late-stage capitalism steadily declines, money management has become a popular topic. Let's help you handle your money."
