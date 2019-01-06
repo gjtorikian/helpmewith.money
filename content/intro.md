@@ -39,7 +39,7 @@ Stocks are traded on the stock market. After you buy a stock, if that company su
 
 The best way to describe a bond is to think of it as yet another loan, except you yourself are the bank. When you buy a bond, what you're actually doing is loaning money, either to your city, state, or national government. They in turn promise to pay you back, with regular interest payments. Bonds may be used to do anything from fund local transit projects to covering budget deficits.
 
-Bonds are considered _low risk_, because governments typically pay back their creditors. (If a government collapses and is unabl to make a repayment, there are far worse problems at stake.) Although you are paid back some percentage of interest, it's a relatively _low reward_ for the amount of risk you're taking.
+Bonds are considered _low risk_, because governments typically pay back their creditors. (If a government collapses and is unable to make a repayment, there are far worse problems at stake.) Although you are paid back some percentage of interest, it's a relatively _low reward_ for the amount of risk you're taking.
 
 * * *
 
