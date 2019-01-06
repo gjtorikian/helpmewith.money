@@ -6,6 +6,14 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <script>
         (adsbygoogle = window.adsbygoogle || []).push({
@@ -13,6 +21,19 @@
           enable_page_level_ads: true
         });
       </script>
+
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@yoursite" />
+      <meta name="twitter:title" content="Help Me With Money!" />
+      <meta name="twitter:description" content="With the steady decline of late-stage capitalism, money management is a popular topic these days. The purpose of this website is to give a very direct introduction how to handle your money." />
+      <meta name="twitter:image" content="social_card.png" />
+
+      <meta property="og:url"                content="https://helpmewith.money" />
+      <meta property="og:type"               content="website" />
+      <meta property="og:title"              content="Help Me With Money!" />
+      <meta property="og:description"        content="With the steady decline of late-stage capitalism, money management is a popular topic these days. The purpose of this website is to give a very direct introduction how to handle your money." />
+      <meta property="og:image"              content="social_card.png" />
+
       <style>
          
         .bb--dashed {
@@ -36,12 +57,20 @@
           bottom: 4px;
           left: 4px;
         }
+        .fb_iframe_widget span{vertical-align:inherit !important;}
+
       </style>
    </head>
   <body class="sans-serif bg-white">
     <header class="bg-white black-80 w-100 avenir fixed pt3 pb3 z-5">
       <div class="dt dt--fixed">
-        <div class="w-20 dtc tc"> </div>
+        <div class="w-20 dtc tc">
+          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <div class="fb-share-button"
+            data-href="https://helpmewith.money"
+            data-layout="button">
+          </div>
+        </div>
         <div class="w-60 dtc tc">
             <h1 class="baskerville i tc f1 mt0 mb0">Help Me With Money!</h1>
         </div>
