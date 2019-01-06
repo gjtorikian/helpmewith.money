@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+
+hugo server --renderToDisk -d public
