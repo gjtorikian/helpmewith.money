@@ -26,4 +26,4 @@ echo "Generating site at `date`"
 hugo
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages at `date`"
+cd public && git add --all && git commit -m "Publishing to gh-pages at `date`" && git push origin gh-pages
