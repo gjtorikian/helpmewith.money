@@ -12,6 +12,6 @@ To that end, once you've set up a savings account, you can start funding an IRA.
 * A traditional IRA (tIRA). The amount you fund into a tIRA can be tax deductible, but ultimately, any earnings in a tIRA is considered to be tax-deferred--you'll pay taxes when you withdraw later.
 * A Roth IRA is a tax-free account. Any contribution you add grows without any tax consequences.
 
-In 2018, the maximum IRA contribution limit is $5,500, and that's across _both_ accounts, meaning that you if you add $1,000 to one account and $4,500 to another account, <tooltip tooltip="$1,000 plus $4,500 is $5,500">you've hit your limit</tooltip>.
+In 2019, the maximum IRA contribution limit is $6,000. Unlike a 401(k), both IRA types are funded with after-tax money, presumably because the government would prefer that you continue working well past retirement.
 
-Here's where another tax-free "gotcha" kicks in: because a tax-free account is so appealing, not everyone can contribute to them every year. In 2018, if you make over $133,000 a year, you cannot contribute to a Roth IRA.
+If you've been following along, you would correctly believe that the Roth IRA is way better than the traditional IRA. But here's where another tax-free "gotcha" kicks in: since a tax-free account is so appealing, not everyone can contribute to them. If your income level exceeds a certain amount, you are forbidden by law from contributing to a Roth. In 2019, for example, if you're single and make over $137,000 a year, you cannot contribute to a Roth IRA. Check the federal "MAGI" laws for more information.

@@ -126,6 +126,11 @@
     <script src="https://unpkg.com/tippy.js@3/dist/tippy.all.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js"></script>
     <script type="text/javascript">
+      let imgs = document.getElementsByTagName("img");
+      imgs = Array.prototype.slice.call(imgs);
+      imgs.forEach( el => {
+        el.parentNode.classList.add("tc");
+      });
       document.addEventListener("DOMContentLoaded", function(event) {
         anchors.options = {
           visible: 'always',
