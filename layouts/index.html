@@ -21,6 +21,15 @@
         });
       </script>
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131910512-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-131910512-1');
+      </script>
+
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:title" content="{{ .Title }}" />
       <meta name="twitter:description" content="{{ $.Site.Params.desc }}"  />
