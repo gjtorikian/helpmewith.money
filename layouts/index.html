@@ -5,14 +5,6 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
-      <div id="fb-root"></div>
-      <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <script>
         (adsbygoogle = window.adsbygoogle || []).push({
@@ -88,15 +80,29 @@
         }
       </style>
    </head>
-  <body class="sans-serif bg-white">
+  <body class="sans-serif bg-lightest-blue">
     <header class="bg-white black-80 w-100 avenir fixed pt3 pb3 z-max">
       <div class="dt dt--fixed">
-        <div class="w-20 dtc tc">
-          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          <div class="fb-share-button"
-            data-href="https://helpmewith.money"
-            data-layout="button">
-          </div>
+        <div class="w-20 v-mid dtc tc">
+          <article class="cf">
+            <div class="fl w-100 w-50-ns tc">
+                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <div class="fl w-100 w-50-ns tc">
+              <div id="fb-root"></div>
+              <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+                fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));</script>
+              <div class="fb-share-button"
+                data-href="https://helpmewith.money"
+                data-layout="button">
+              </div>
+            </div>
+          </article>
         </div>
         <div class="w-60 dtc tc">
           <h1 class="baskerville i tc f1-ns f2 mt0 mb0">Help Me With Money! <span class="fs-normal">😱</span></h1>
@@ -107,14 +113,14 @@
       </div>
     </header>
 
-    <main class="pt6">
+    <main class="pt6 pb4">
       <div class="dt-ns dt--fixed-ns">
         <div class="dtc-ns tc w-20"></div>
-        <div class="dtc-ns tc">
+        <div class="dtc-ns tc w-60 bg-white pt4 pb4 ph4">
           <article class="dtc f4 tl">
             {{ range .Site.Pages.GroupByParam "Section"}}
             {{ range .Pages }}
-            <section class="ph0-l ph0-m ph4">
+            <section>
               {{ if ne .Type "intro" }}
               <h2 class="mt4 mb4 tc">{{ .Title }}</h2>
               {{ end }}
