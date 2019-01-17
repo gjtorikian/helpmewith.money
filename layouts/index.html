@@ -65,18 +65,9 @@
         }
         .fb_iframe_widget span {vertical-align:inherit !important;}
 
-        .video-responsive {
-            overflow:hidden;
-            padding-bottom:56.25%;
-            position:relative;
-            height:0;
-        }
-        .video-responsive iframe {
-            left:0;
-            top:0;
-            height:100%;
-            width:100%;
-            position:absolute;
+        video {
+          width: 100%    !important;
+          height: auto   !important;
         }
       </style>
    </head>
@@ -116,7 +107,7 @@
     <main class="pt6 pb4">
       <div class="dt-ns dt--fixed-ns">
         <div class="dtc-ns tc w-20"></div>
-        <div class="dtc-ns tc w-60 bg-white pt4 pb4 ph4">
+        <div class="dtc-ns tc bg-white pt4 pb4 ph4">
           <article class="dtc f4 tl">
             {{ range .Site.Pages.GroupByParam "Section"}}
             {{ range .Pages }}

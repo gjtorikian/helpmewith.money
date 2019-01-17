@@ -5,9 +5,10 @@ section = "8"
 
 If you've read through all of this and are still eager for more information: relax. Everything after this point are either citations for everything described above, or, crazy minutiae when dealing with asset holdings. After getting yourself out of debt, remember that there's more to life than worrying about money. Don't deny your inner self!
 
-<div class="tc video-responsive">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hCLgvv4yZZY?start=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<video controls>
+  <source src="WMMMM.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 [JLCollin's stock series](https://jlcollinsnh.com/stock-series/) breaks down strategies for handling your assets into digestable chunks. It's very highly recommended.
 
